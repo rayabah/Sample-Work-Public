@@ -39,7 +39,7 @@ Coders: Emily, Jay, Bijan, Akash
 - *Assignment 9*: [``./code/extended_exploratory_combined_team1.ipynb``](./code/extended_exploratory_combined_team1.ipynb), [``./code/New_Analysis_akash.ipynb``](./code/New_Analysis_akash.ipynb)
   > 10  new questions about previous analysis and data (group and individual).
 
-- *Assignment 10*: [``./draft/Assignment10_list.md``](./draft/Assignment10_list.md), [`./code/Assignment10_Group.ipynb```](./code/Assignment10_Group.ipynb), [``./code/Assignment10_Akash.ipynb``](./code/Assignment10_Akash.ipynb),
+- *Assignment 10*: [``./draft/Assignment10_list.md``](./draft/Assignment10_list.md), [``./code/Assignment10_Group.ipynb``](./code/Assignment10_Group.ipynb), [``./code/Assignment10_Akash.ipynb``](./code/Assignment10_Akash.ipynb),
   > 10 new questions about previous analysis and data (group and individual).
 
 - *Assignment 11*: [``./draft/Assignment11_list.md``](./draft/Assignment11_list.md), [``./code/Assignment11_Group.ipynb``](./code/Assignment11_Group.ipynb), [``./code/Assignment11_Akash.ipynb``](./code/Assignment11_Akash.ipynb)
