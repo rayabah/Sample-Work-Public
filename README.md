@@ -9,7 +9,7 @@ Primary: Akash Ray [``ray_akash@bah.com``](ray_akash@bah.com)
 ## Table of Contents: Sample Work Public
 
 
-- *Art of Data Science - 2016*: [``final_report.md``](final_report.md)
+- *Art of Data Science - 2016*: [``Classwork Folder``](./ArtOfDataScience_2016_JHUClass)
   > Graduate/Senior level class taught by Joshua Vogelstein at Johns Hopkins University exploring the reiterative and non-linear process of data science. We used 
   - *Final Report*: [``final_report.md``](final_report.md)
   > Final report summarizing work performed throughout the course.
