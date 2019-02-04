@@ -1,6 +1,5 @@
 ## Team1's Repo (SAMPLED 2018.02.04)
-This repository is a modified repository from Akash's team project in the Johns Hopkins University 2016 Art of Data Science Class (Upward Spiral of Science), used as a repo of sample work which Akash collaborated on or did. In assignments and final report, Akash mostly did/contributed to descriptive, exploratory and some inferential work.
-
+This repository is a modified repository from Akash's team project in the Johns Hopkins University 2016 Art of Data Science Class (Upward Spiral of Science), used as a repo of sample work which Akash collaborated on or did. In assignments and final report, Akash mostly did/contributed to descriptive, exploratory and some inferential work. Repository has been edited to contain assignments Akash did/contricbuted to, with the exception of the final report that has all relevant code and work by all teammates. 
 
 ## Contact
 Primary: Ray_akash@bah.com 
