@@ -305,3 +305,4 @@ Given more time, we would like to research models for spatial data (e.g. "Point 
 
 ### Conclusion
  The patterns we saw in synapse density across our volume are significant. Our evidence for the cortical layers in y-direction is confirmed by the Bock 2011 paper: "After finding the calcium-imaged region of the cortex...each section was...tall enough (350 μm) to include cortical layers 1, 2/3 and upper 4" (Bock et al)<sup id="r-dbock">[1](f-dbock)</sup>. The analysis we performed to come to the conclusion of the direction of cortical "depth" is a step toward understanding how synapse connectivity is related to cortical layers. The analysis is a strong foundation for further exploration into structural synapse patterns within the cortex. These patterns may be strong indicators of the overall patterns in the neural structure of the cortex.
+
